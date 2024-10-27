@@ -1,7 +1,32 @@
-body{
-    background-clip: border-box;https://youtu.be/j6TZSmD99Gs?si=1psXG5H1owvOEw8K
-    
+body {
+    background:white;
+}
+
+div {
+    background: slateblue;
+
+}
+
+div a {
+    color: red;
+    padding: 10px;
+    font-size: 24px;
 }
 
 
+img {width: 100%; ··· 
+}
 
+.section-1 {
+    display: flex;
+    gap: 24px;
+    overflow: hidden;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.section-1 img {
+    width: 40%;
+}
